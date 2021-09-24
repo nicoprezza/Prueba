@@ -1,3 +1,7 @@
+
+
+/* Selectores Globales */
+
 body {
     background-color: rgb(44, 130, 204);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -6,4 +10,16 @@ body {
 
 a{
     text-decoration: none;
+}
+
+p{
+    color: ghostwhite;
+}
+
+.Unico{
+    color: gold;
+}
+
+#identificador{
+    color: indigo;
 }
